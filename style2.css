@@ -1,0 +1,27 @@
+body{
+	background-color:green;
+	font: 16px times new roman, sans-serif;
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+	background-image: url(s.jpeg);
+}
+
+.header {
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: center;
+}
